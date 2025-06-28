@@ -5,12 +5,11 @@ def primeNumbers(endNum):
     :return: int
     """
     for num in range(2, endNum+1):
-        count = 0
         for num_1 in range(2, num):
             if num % num_1 == 0:
-                count += 1
-        if count == 0:
-            print(f"{num}", end=" ")
+                break
+        else:
+            print(num, end=" ")
 
 
 endNum = int(input("Enter number: "))

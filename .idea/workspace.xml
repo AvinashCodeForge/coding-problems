@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d69162e-19d9-4e2f-aba0-74981c3da4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/check if a number is prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/count vowels in a string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/fibonacci series upto N terms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/find largest of three numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/frequency of each character in a string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/palindrome checker approach 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/palindrome checker_approach 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/print even numbers from 1 to 100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/reverse a string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/two sum problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Find all prime numbers between 1 to n approach 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Find all prime numbers between 1 to n approach 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +37,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Anagram checker.executor": "Run",
+    "Python.Find all prime numbers between 1 to n approach 1.executor": "Run",
+    "Python.Find all prime numbers between 1 to n.executor": "Run",
     "Python.FizzBuzz.executor": "Run",
     "Python.check if a number is prime.executor": "Run",
     "Python.count vowels in a string.executor": "Run",
     "Python.fibonacci series upto N terms.executor": "Run",
+    "Python.find all prime numbers between 1 to n approach 2.executor": "Run",
+    "Python.find duplicate elements in a list.executor": "Run",
     "Python.find largest of three numbers.executor": "Run",
     "Python.frequency of each character in a string.executor": "Run",
     "Python.palindrome checker approach 2.executor": "Run",
     "Python.palindrome checker.executor": "Run",
     "Python.print even numbers from 1 to 100.executor": "Run",
     "Python.reverse a string.executor": "Run",
+    "Python.sum of digits.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "easy__level__coding__problems"
   }
